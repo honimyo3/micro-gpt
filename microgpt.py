@@ -30,7 +30,7 @@ from spinner import Spinner
 operating_system = platform.platform()
 
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("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")
 DEBUG = os.getenv("DEBUG") in ['true', '1', 't', 'y', 'yes']
 
 PROMPT = f"You are an autonomous agent running on {operating_system}." + '''
