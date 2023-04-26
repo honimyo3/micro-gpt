@@ -1,5 +1,5 @@
 """
-MicroGPT main executable.
+icroGPT main executable.
 This script serves as the main entry point for the MicroGPT application. It provides a command-line
 interface for users to interact with a GPT-3.5/4 language model, leveraging memory management and
 context-based reasoning to achieve user-defined objectives. The agent can issue various types of
